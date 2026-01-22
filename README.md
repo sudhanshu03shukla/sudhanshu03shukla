@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **sudhanshu03shukla@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Databricks Project on Flights analysis
 - 🌱 **I’m currently learning:** Apache Airflow
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:** New and exciting challanges in the technology field
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Sudhanshu03shukla@gmail.com 
